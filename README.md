@@ -7,7 +7,7 @@
 
 后端: **node + mongdb + passport**
 
-[后端代码](http://baidu.com)
+[后端代码](https://github.com/nativejie/vue-blog-server)
 
 ## 已实现功能
 + **文章添加**
